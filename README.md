@@ -1,0 +1,1 @@
+This is Takow's first git project
